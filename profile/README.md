@@ -1,6 +1,5 @@
 # **ACTL**
 **Advanced Chip Test Laboratory** at **Carnegie Mellon University**
 
-### Important Links:
-- ACTL Public Webpage: [https://www.actl.ece.cmu.edu/](https://www.actl.ece.cmu.edu/)
-- ACTL Wiki: [http://wiki.ece.cmu.edu/actl/index.php](http://wiki.ece.cmu.edu/actl/index.php)
+For more information about ACTL, please visit our homepage!
+[https://www.actl.ece.cmu.edu/](https://www.actl.ece.cmu.edu/)
